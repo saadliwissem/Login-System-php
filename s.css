@@ -1,0 +1,21 @@
+.profile-head {
+    transform: translateY(5rem)
+}
+body {
+    background: #654ea3;
+    padding:5% 25% 0px;
+    min-height: 100vh
+}
+.imgprof img{
+    height: 20px;
+    width: 20px;
+}
+/*.main{
+    height: 220px;
+    width: 100%;
+}*/
+.profile{
+    padding: 10%;
+    background: linear-gradient(to right, #e96443, #904e95);
+    border-radius: 8px;
+}
