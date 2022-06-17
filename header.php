@@ -18,12 +18,7 @@
 			<li>
 				<a href="index.php">home</a>
 			</li>
-			<li>
-				<a href="about.php">shop</a>
-			</li>
-			<li>
-				<a href="schedule.php">about</a>
-			</li>
+			
 			<?php 
 				if(isset($_SESSION["useruid"])){
 					echo "<li>
